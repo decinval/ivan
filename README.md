@@ -10,13 +10,15 @@ To start me you need to do the following steps:
 4) Enjoy it!
 
 ### Technical requirements:
-
 1) Windows 7, 8.1 or 10;
 2) Python 3.7+.
 
 ### Contributing
 I was separated into different components and commented on all the code as maximum extent possible. So I hope you won't get any trouble adding new features.
 To contribute to this project, you just need to fork this repository and translate your ideas into reality :)
+
+### License
+Distributed under the MIT License.
 
 ### Contact
 My developer: Illia Malovanyi - @egttopwwert (Telegram) - egttopwwert@gmail.com (email)
