@@ -1,16 +1,20 @@
-# Іvan
-Іван - це сучасний телеграм-бот для завантаження музики з YouTube.
+# Hello!
+I'm Ivan. I'm a modern telegram bot for downloading music from youtube.
 
-Аби запустити Івана вам потрібно виконати наступні кроки:
-1) Завантажити цей репозиторій;
-2) У файлі "config.py" змінити значення змінної TOKEN на токен вашого бота, який ви отримали у @BotFather;
-3) Запустити файл "bot.py".
+To start me you need to do the following steps:
 
-Технічні вимоги:
-1) Windows 7, 8.1 або 10;
+1) Download this repositiry;
+2) Get bot's token from @BotFather;
+3) Set TOKEN value in config.py;
+4) Enjoy it!
+
+Technical requirements:
+
+1) Windows 7, 8.1 or 10;
 2) Python 3.7+.
 
-Особливості бота:
-1) Швидкий;
-2) Безкоштовний;
-3) Зручний.
+I were seperated on different components and commented all the code as maximum extent possible. So you won't get any trouble adding new features.
+
+If you want to contribute your ideas to this project, please contact my developer.
+
+Have a nice day :)
