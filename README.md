@@ -1,5 +1,5 @@
 # Hello! I'm Ivan!
-I'm a modern telegram bot for downloading music from youtube.
+I'm a modern telegram bot for downloading music from YouTube.
 
 To start me you need to do the following steps:
 
